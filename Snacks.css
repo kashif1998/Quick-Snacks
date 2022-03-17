@@ -1,0 +1,67 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #c4c4c4;
+  }
+
+
+  .carousel-item::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: #000;
+    opacity: 0.5;
+  }
+
+  .carousel-caption {
+    bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .carousel-caption h3 {
+    font-size: 50px;
+  }
+
+  .carousel-caption p {
+    font-size: 18px;
+    top: 2rem;
+  }
+
+  .slider-btn {
+    margin-top: 25px;
+  }
+
+  .slider-btn .btn {
+    background-color: goldenrod;
+    color: white;
+    border-radius: 0;
+    padding: o.7rem 1.4rem;
+    font-size: 1rem;
+    margin-right: 10px;
+  }
+
+  .card:hover {
+    box-shadow: 20px 20px 80px -44px #000;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+  }
+
+  .slider-btn .btn:hover {
+    background-color: #c4c4c4;
+    color: black;
+  }
+  .navbar-nav .nav-item .nav-link:hover{
+    color: black;
+    border-left: #c4c4c4 solid 3px;
+    transition: 0.8
+  }
+  .navbar-nav .nav-item .nav-link{
+    font-size: 18px;
+  }
+  .navbar-brand{
+    font-size: 26px;
+  }

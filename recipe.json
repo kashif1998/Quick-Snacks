@@ -1,0 +1,179 @@
+[
+    {
+        "id":1,
+        "data":{
+            "recipe_title":"Apple",
+            "description":"This low calories snack is packed with fiber to keep you full, carbs to keep you energized, and tons of nutrients.",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Apple.jpg",
+            "serving_size":"1 medium apple",
+            "protein":"0g",
+            "calories":"80",
+            "sugar":"16g"
+        }
+    },
+    {
+        "id":2,
+        "data":{
+            "recipe_title":"Apple with Almond butter",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Almond-Butter-Apples 1.jpg",
+            "Ingredients":"1 medium apple with 2 tablespoone of almond butter",
+            "How to prepare":"Make any ordinary apple Extraordinary with Almond butter. Their almond are blanched before grinding for creamy smooth spreadability, and exceptional awesome flavor. ",
+            "serving_size":"1 apple and 2tbsp almond butter",
+            "protein":"6g",
+            "calories":"260",
+            "sugar":"19g",
+            "time duration":"5 min"
+        }
+    },
+    {
+        "id":3,
+        "data":{
+            "recipe_title":"Baked Sweet potato chips",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/baked sweet potato chips1.jpg",
+            "Ingredients":" 1 1/2 pounds sweet potatoes 1/3 cup olive oil Diamond crystal kosher salt",
+            "How to prepare":"Peel and slice the sweet potatoes in thin slices. Toss with extra olive oil and dimond crystal kosher salt. Roast in a preheated 400 F oven for about 20 minutes, turning once.",
+            "serving_size":"1/8 of recipe",
+            "protein":"1g",
+            "calories":"152",
+            "sugar":"4g",
+            "time duration":"20 min"
+        }
+    },
+    {
+        "id":4,
+        "data":{
+            "recipe_title":"Banana",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/baked sweet potato chips1.jpg",
+            "description":"Bananas are a great way to stave off cravings for sweets. Along with a reasonable amount of natural sugar and carbs, they’re packed with fiber, protein, and of course potassium and manganese, meaning they won’t make your energy soar and crash like candy and other sweets do.",
+            "serving_size":"1 medium banana",
+            "protein":"1g",
+            "calories":"110",
+            "sugar":"14g"
+        }
+    },
+    {
+        "id":5,
+        "data":{
+            "recipe_title":"Chickpeas on Wheat Toast",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Chickpeas on Wheat Toast.jfif",
+            "description":"This chickpea version is faster to make and it requires less oil and less preparation and cook time than the traditional dish.",
+            "Ingredients":"1 slice of whole-wheat toast ¼ cup chickpeas 3 tablespoons grated carrots 1 teaspoon toasted sesame oil 1 squeeze fresh lemon juice Salt and pepper to taste",
+            "How to prepare":" Use a potato masher, fork, or whisk to mash up the chickpeas with the sesame oil, lemon juice, and salt and pepper. The mixture should be chunky, but spreadable. Stir in the grated carrots and spread everything on your toast. ",
+            "serving_size":" 1 Slice",
+            "protein":" 8g",
+            "calories":"200",
+            "sugar":"<1g"
+        }
+    },
+    {
+        "id":6,
+        "data":{
+            "recipe_title":"Cottage Cheese topped with Cucumber, Tomato, Avocado Salad",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Cottage Cheese topped with Cucumber, Tomato, Avocado Salad.jpg",
+            "description":"This refreshing, easy to make concoction delivers protein, healthy fats, and tons of essential vitamins and minerals.",
+            "Ingredients":"1/2 cup (not packed) cottage cheese - lowfat 2% milkfat 1 tablespoon lemon juice1 dash salt 1/4 teaspoon pepper 1/2 teaspoon garlic powder 1/2 cup grape tomatoes (halved) 1/2 cup English seedless cucumber (chopped) 1/2 small avocado (cubed) 2 tablespoons cilantro (chopped)",
+            "How to prepare":" Mix together chopped cucumber, halved tomatoes, avocado, lemon juice, cilantro, garlic and salt and pepper and use to top cottage cheese. ",
+            "serving_size":" 1 Slice",
+            "protein":"17g",
+            "calories":"174",
+            "sugar":"2g"
+        }
+    },
+    {
+        "id":7,
+        "data":{
+            "recipe_title":"Dates (Medjool)",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Dates (Medjool).jpg",
+            "description":"These delicious dates are packed with natural sugars, making them a great way to tide over sweet-cravings during the day. They’ve also been shown to decrease cholesterol and boost bone health.",
+            "Ingredients":"Dates.",
+            "serving_size":" 3 dates",
+            "protein":"1g",
+            "calories":" 199",
+            "sugar":"48g"
+        }
+    },
+    {
+        "id":8,
+        "data":{
+            "recipe_title":"Gluten-Free Avocado Toast in a Bowl",
+            "category":"Healthy Snacks",
+            "recipe_img":"Images/Gluten-Free Avocado Toast in a Bowl.jpg",
+            "description":"Don’t worry; this is not just another variety of deconstructed avocado toast. This vegan recipe yields a healthy bowl packed with fiber and omega 3 fatty acids. Baked quinoa and nutty sesame seeds provide the crunchy comforting flavors of toast without incorporating gluten.",
+            "Ingredients":"½ small avocado, sliced 1 tablespoon sesame seeds ½ teaspoon coarse sea salt 1/4 toasted quinoa",
+            "How to prepare":" Stir together your quinoa, salt, and sesame seeds. Then top the mixture with sliced avocado and any gourmet additions of your choice.",
+            "serving_size":" 1 bowl",
+            "protein":"7g",
+            "calories":"277",
+            "sugar":" < 1g"
+        }
+    },
+    {
+        "id":17,
+        "data":{
+            "recipe_title":"Strawberry Oat Smoothie",
+            "category":"Smoothies",
+            "recipe_img":"Images/Strawberry Oat Smoothie.jpg",
+            "description":"This smoothie is just loaded with vitamins and minerals. You’ll get a whole day’s worth of vitamin C in just one smoothie, plus lots of calcium, magnesium, folate, and vitamin A.",
+            "Ingredients":"1 cup sliced strawberries 1/2 banana 1 cup nonfat milk  1/4 cup rolled oats 1 teaspoon honey 1/4 teaspoon vanill 1/2 cup ice",
+            "How to prepare":"put all the ingredients in a jar and blend it.",
+            "serving_size":" 1 1/2 glass",
+            "protein":"13g",
+            "calories":"280",
+            "sugar":" 56g "
+        }
+    },
+    {
+        "id":18,
+        "data":{
+            "recipe_title":"Cherry Smoothie",
+            "category":"Smoothies",
+            "recipe_img":"Images/Cherry Smoothie.jpg",
+            "description":"Cherries are a good source of fiber, vitamin C, and magnesium, and they have a wonderful deliciously sweet flavor.13 Half a banana adds potassium and fiber to this smoothie.",
+            "Ingredients":"1 cup sweet pitted cherries 1/2 banana 1 cup nonfat milk 1 tablespoon honey 1/4 teaspoon vanilla extract 1/4 teaspoon cinnamon 1/2 cup ice",
+            "How to prepare":"put all the ingredients in a jar and blend it.",
+            "serving_size":" 1 1/2 glass",
+            "protein":"11g ",
+            "calories":"297 ",
+            "sugar":" 68g  "
+        }
+    },
+    {
+        "id":19,
+        "data":{
+            "recipe_title":"Watermelon mint Smoothie",
+            "category":"Smoothies",
+            "recipe_img":"Images/Watermelon mint Smoothie.jpg",
+            "description":"Here’s a refreshing, healthful smoothie that’s perfect for relaxing on a hot summer day or for recuperating after a serious workout. Watermelon is a great source of vitamins A and C and the yogurt adds calcium and protein.",
+            "Ingredients":"2 cups watermelon chunks (use seedless watermelon or remove the seeds) 1 1/2 tablespoon fresh mint 1/2 cup plain nonfat Greek yogurt 1 tablespoon honey 1/2 cup ice",
+            "How to prepare":"put all the ingredients in a jar and blend it.",
+            "serving_size":" 1 1/2 glass",
+            "protein":"14g  ",
+            "calories":"183  ",
+            "sugar":" 34g   "
+        }
+    },
+    {
+        "id":20,
+        "data":{
+            "recipe_title":"Blueberry Beet Smoothie",
+            "category":"Smoothies",
+            "recipe_img":"Images/Blueberry Beet Smoothie.jpg",
+            "description":"This smoothie combines the goodness of blueberries and a beet for topnotch nutrition and a gorgeous color. The flavor is outstanding as well. The recipe also calls for yogurt and chia seeds. With this smoothie, you’ll have protein and omega-3 fatty acids as well as tons of vitamins, minerals, and fiber.",
+            "Ingredients":"1/2 cup blueberries 1/2 banana 1 small tangerine, peeled 1 beet peeled and sliced 1/4 cup plain fat-free Greek yogurt 2 teaspoons chia seeds 1/4 teaspoon cinnamon 1/2 cup ice",
+            "How to prepare":"put all the ingredients in a jar and blend it.",
+            "serving_size":"1 1/2 glass",
+            "protein":"18g",
+            "calories":"288",
+            "sugar":"51g"
+        }
+    }
+
+
+]
